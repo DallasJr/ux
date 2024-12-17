@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/api.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/seed.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ux.php" dialect="MySQL" />
+  </component>
+</project>
